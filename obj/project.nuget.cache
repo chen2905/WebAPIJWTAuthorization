@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ay9yV7FYavljZ15jMEddfjHgVDbsPcFlKFkQf+WJZkY/X2pwbR82TouYaOqxJq7gMcA3XPDhF7OmcNrgSkrbXQ==",
+  "dgSpecHash": "Yx0z+cArB9pRUzwB11vma3owLh9r2dHPbbdyyccQ5XKXJ6hJEqdJnQBbau7/H3ptTgTKjzT/IpkZyO7bWmJ9ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\WebAPIRefreshJWTAuth.csproj",
+  "projectFilePath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\WebAPIRefreshJWTAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cgao\\.nuget\\packages\\bricelam.entityframeworkcore.pluralizer\\1.0.0\\bricelam.entityframeworkcore.pluralizer.1.0.0.nupkg.sha512",
     "C:\\Users\\cgao\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",

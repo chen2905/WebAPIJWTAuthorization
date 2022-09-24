@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\WebAPIRefreshJWTAuth.csproj": {}
+    "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\WebAPIRefreshJWTAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\WebAPIRefreshJWTAuth.csproj": {
+    "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\WebAPIRefreshJWTAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\WebAPIRefreshJWTAuth.csproj",
+        "projectUniqueName": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\WebAPIRefreshJWTAuth.csproj",
         "projectName": "WebAPIRefreshJWTAuth",
-        "projectPath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\WebAPIRefreshJWTAuth.csproj",
+        "projectPath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\WebAPIRefreshJWTAuth.csproj",
         "packagesPath": "C:\\Users\\cgao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPIRefreshJWTAuth\\obj\\",
+        "outputPath": "C:\\Users\\cgao\\Documents\\GitHub\\webAPIAuth\\WebAPI_JWT_Basic_Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
